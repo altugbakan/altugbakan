@@ -1,3 +1,8 @@
+## Currently working on:
+
+### [Accelerated C++ Solutions](https://github.com/altugbakan/accelerated-cpp-solutions)
+> Solutions for the exercises in the book "Accelerated C++" by Andrew Koenig and Barbara E. Moo.
+
 ## Here's a quick rundown on my repositories:
 
 ### [Vanity MonKey Generator](https://github.com/altugbakan/vanity-monkey-generator)
