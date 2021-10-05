@@ -3,7 +3,7 @@
 ### [Accelerated C++ Solutions](https://github.com/altugbakan/accelerated-cpp-solutions)
 > Solutions for the exercises in the book "Accelerated C++" by Andrew Koenig and Barbara E. Moo.
 
-## Here's a quick rundown on my repositories:
+## My other repositories:
 
 ### [Vanity MonKey Generator](https://github.com/altugbakan/vanity-monkey-generator)
 > Generates an account with a custom [MonKey](https://monkey.banano.cc/) for [Banano](https://banano.cc/) cryptocurrency.
