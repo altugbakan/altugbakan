@@ -4,7 +4,7 @@
 > Solutions for [Stellar Quest](https://quest.stellar.org/) in [Go](https://golang.org/) using the [Stellar SDK](https://github.com/stellar/go).
 
 ### [Accelerated C++ Solutions](https://github.com/altugbakan/accelerated-cpp-solutions)
-> Solutions for the exercises in the book "Accelerated C++" by Andrew Koenig and Barbara E. Moo.
+> Solutions for the exercises in the book [Accelerated C++: Practical Programming by Example](http://www.acceleratedcpp.com/) by Andrew Koenig and Barbara E. Moo.
 
 ## My other repositories:
 
