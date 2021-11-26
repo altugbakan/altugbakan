@@ -1,6 +1,6 @@
 ## Currently working on:
 
-### > Learning about Solidity, Blockchain, Smart Contracts, and Brownie from [freeCodeCamp's video](https://youtu.be/M576WGiDBdQ) and [Patrick Collins](https://github.com/PatrickAlphaC).
+> Learning about Solidity, Blockchain, Smart Contracts, and Brownie from [freeCodeCamp's video](https://youtu.be/M576WGiDBdQ) and [Patrick Collins](https://github.com/PatrickAlphaC).
 
 ## My other repositories:
 
