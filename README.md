@@ -1,6 +1,6 @@
 ## Currently working on:
 
-> My master's degree.
+> Learning Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/).
 
 ## My other repositories:
 
