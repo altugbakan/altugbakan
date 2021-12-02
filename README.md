@@ -1,7 +1,7 @@
 ## Currently working on:
 
-### Learning Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/).
-> Learning Basic CSS.
+### Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/).
+> Learning Applied Visual Design.
 
 ## My other repositories:
 
