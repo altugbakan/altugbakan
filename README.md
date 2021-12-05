@@ -1,7 +1,7 @@
 ## Currently working on:
 
-### Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/).
-> Learning Applied Visual Design.
+### My Master's Thesis
+> Doing literature review.
 
 ## My other repositories:
 
