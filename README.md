@@ -1,7 +1,7 @@
 ## Currently working on:
 
 ### My Master's Thesis
-> Doing literature review.
+> Working on an idea.
 
 ## My other repositories:
 
