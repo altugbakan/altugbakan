@@ -1,7 +1,7 @@
 ## Currently working on:
 
 ### My Master's Thesis
-> Working on thermal image fusion.
+> Working on thermal and visible image fusion.
 
 ## My other repositories:
 
