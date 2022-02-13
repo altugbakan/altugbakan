@@ -5,6 +5,9 @@
 
 ## My other repositories:
 
+### [The Loan Stream](https://github.com/theloanstream/thels)
+> DeFi product that allows you to borrow [Superfluid](https://github.com/superfluid-finance/protocol-monorepo) money streams without selling your collateral.
+
 ### [Crypto Gums](https://github.com/altugbakan/crypto-gums)
 > Personalized generative [Gum NFTs](https://cryptogum.shop) on [Polygon](https://polygon.technology/) blockchain.
 
