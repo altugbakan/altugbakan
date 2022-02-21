@@ -19,6 +19,3 @@
 
 ### [Vanity MonKey Generator](https://github.com/altugbakan/vanity-monkey-generator)
 > Generates an account with a custom [MonKey](https://monkey.banano.cc/) for [Banano](https://banano.cc/) cryptocurrency.
-
-### [Accelerated C++ Solutions](https://github.com/altugbakan/accelerated-cpp-solutions)
-> Solutions for the exercises in the book [Accelerated C++: Practical Programming by Example](http://www.acceleratedcpp.com/) by Andrew Koenig and Barbara E. Moo.
