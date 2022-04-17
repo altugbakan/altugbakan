@@ -5,6 +5,9 @@
 
 ## My other repositories:
 
+### [alt.ug](https://github.com/altugbakan/alt.ug)
+> My personal [website](https://alt.ug) created with [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+
 ### [Arduino Spotify Controller](https://github.com/altugbakan/arduino-spotify-controller)
 > Allows you to control your [Spotify](https://spotify.com) player using [Arduino Oplà IoT Kit](https://opla.arduino.cc) and [Spotify Web API](https://developer.spotify.com/documentation/web-api/).
 > 
