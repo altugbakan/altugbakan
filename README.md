@@ -8,6 +8,11 @@
 ### [alt.ug](https://github.com/altugbakan/alt.ug)
 > My personal [website](https://alt.ug) created with [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
+### [Crypto Reward Cards](https://github.com/reward-cards/reward-cards)
+> A way for business owners to reward their users with automated token rewards and membership tiers.
+> 
+> Created for [ETHPrague](https://ethprague.com/) hackathon.
+
 ### [Arduino Spotify Controller](https://github.com/altugbakan/arduino-spotify-controller)
 > Allows you to control your [Spotify](https://spotify.com) player using [Arduino Oplà IoT Kit](https://opla.arduino.cc) and [Spotify Web API](https://developer.spotify.com/documentation/web-api/).
 > 
