@@ -1,9 +1,9 @@
 ## Currently working on:
 
 ### My Master's Thesis
-> Working on thermal and visible image fusion.
+> Working on thermal and visible image fusion using PyTorch.
 
-## My other repositories:
+## My other projects:
 
 ### [alt.ug](https://github.com/altugbakan/alt.ug)
 > My personal [website](https://alt.ug) created with [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
