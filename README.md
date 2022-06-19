@@ -1,4 +1,10 @@
 ## Hey, I'm Altuğ.
+I code stuff that I find interesting. It is usually about [web3](https://ethereum.org/en/developers/docs/web2-vs-web3/) technologies.
+
+<br>
+
+Below you can find my personal webpage and socials.
+
 [![Website](https://img.shields.io/badge/alt.ug-252525?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAo9JREFUWEfNlzFIG1EYx/8vGIL1zg4tDnZSBENDB4V2kAwKDt2aRQq1Q/fiEBBxq7q6WaRD3dw6iNhSMmgVoVDqIEqhg9JCpoIZbN+7BHrJXXlH73J3effuJadtbgrv3vv+v/d9X777PoIOH03TXviPMsaWOzFFVA9xQULIkuL+A0rplMreWABd1/cBTKoYE+2hlEo1pC91Xbc7Ffafs217ijF2ILIlBGjT3aqMwrC0ACR1eQxNC0QAQNO0SUIIj/m1PeFwBACuKuZx9P7E9AD+lbgL50J0B0BU4plzJtIv03EeBf1FA3vyb/M4mT2JP0cpcTwQ5X7XcO+TXvS864k0GAZwbPbryQFGHozgePfYM6Tf0gFTbLfxsIHqmyoKPwvYvrmN3EQO5S9lKQTPA6JSdLLLWRwVj5oggtu5XuA3578JCLR+TQpg2/YSaafwDH0awundU8doqpJC33CfJ8BFC6yAvcE9sB8M9g1bKQwcQLneW/csGB8NT3RxaxHrz9ZhfDVg3bFabju+P46zR2dSLygD+BNtpbKC1eHVwO2jVOKSMRbALzzDZlAaLAW06o/rqL2uobhZxMbzDe9dfbaO2qsaxqbHcP75PNIL0iR0xUd/j8K8b+Li+0XAEL2kQKq5lPuQQ7lQhvHNgHW7GRJ3PUzhJKGsDgxcDiA7l8Xh5qHwBo18A9X3VeddBhnM78xj7ekaMhMZVEoVZz2NNBZ2Fpz18OP8DWUAsZUk4YbuAfgfXnD7gu74GrqhbKcoJQm/sCH5G4ZELbgiVKAvFDWlyqVZUTBYO0JzgrAtv65QiIaUyMGkna+kiieiJiTpZHQVbbpsKuLgsbMh39QJCK/zKhOzEoDfxbIOSlXUb+8PFcghDmqrllsAAAAASUVORK5CYII=)](https://alt.ug)
 [![Twitter](https://img.shields.io/badge/altugbakan-252525?logoColor=1da1f2&logo=twitter)](https://twitter.com/altugbakan)
 [![LinkedIn](https://img.shields.io/badge/altugbakan-252525?logoColor=0a66c2&logo=linkedin)](https://www.linkedin.com/in/altugbakan/)
