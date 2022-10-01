@@ -41,7 +41,7 @@ Below you can find my personal webpage and socials.
 > Created for [Road To Web3](https://web3.ethglobal.com/) hackathon at [ETHGlobal](https://ethglobal.com/).
 
 ### [Crypto Gums](https://github.com/altugbakan/crypto-gums)
-> Personalized generative [Gum NFTs](https://cryptogum.shop) on [Polygon](https://polygon.technology/) blockchain.
+> Personalized generative [Gum NFTs](https://gums.surge.sh/) on [Polygon](https://polygon.technology/) blockchain.
 
 ### [Stellar Quest Go](https://github.com/altugbakan/stellar-quest-go)
 > Solutions for [Stellar Quest](https://quest.stellar.org/) in [Go](https://golang.org/) using the [Stellar Go SDK](https://github.com/stellar/go).
