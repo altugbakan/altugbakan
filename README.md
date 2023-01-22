@@ -20,6 +20,11 @@ Below you can find my personal webpage and socials.
 ### [alt.ug](https://github.com/altugbakan/alt.ug)
 > My personal [website](https://alt.ug) created with [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
+### [SoroDogs](https://github.com/altugbakan/sorodogs)
+> NFTs on Stellar using Soroban Platform
+>
+> Created for [Hacka-Soroban-Athon](https://devpost.com/software/sorodogs) hackathon.
+
 ### [Vapor](https://github.com/vapor-swap/vapor-contracts)
 > Allows people to create no-gas trade offers between tokens and NFTs.
 >
