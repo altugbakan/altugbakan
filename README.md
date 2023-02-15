@@ -12,8 +12,11 @@ Below you can find my personal webpage and socials.
 
 ## I'm currently working on:
 
-### My Master's Thesis
-> Working on thermal and visible image fusion using PyTorch.
+### Learning Rust
+> Learning [Rust](https://rustlang.org/) by implementing a TFTP Server.
+
+### Learning Urbit
+> Learning [Hoon](https://developers.urbit.org/guides/core/hoon-school) development for [Urbit](https://urbit.org/), a decentralized operating system.
 
 ## My other projects:
 
