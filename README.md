@@ -12,9 +12,6 @@ Below you can find my personal webpage and socials.
 
 ## I'm currently working on:
 
-### Learning Rust
-> Learning [Rust](https://rustlang.org/) by implementing a TFTP Server.
-
 ### Learning Urbit
 > Learning [Hoon](https://developers.urbit.org/guides/core/hoon-school) development for [Urbit](https://urbit.org/), a decentralized operating system.
 
@@ -22,6 +19,9 @@ Below you can find my personal webpage and socials.
 
 ### [alt.ug](https://github.com/altugbakan/alt.ug)
 > My personal [website](https://alt.ug) created with [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+
+### [TFTP Server Daemon](https://github.com/altugbakan/rs-tftpd)
+> A multi-threaded TFTP server daemon implementation in pure [Rust](https://www.rust-lang.org/).
 
 ### [SoroDogs](https://github.com/altugbakan/sorodogs)
 > NFTs on Stellar using Soroban Platform
