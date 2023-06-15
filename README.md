@@ -12,8 +12,8 @@ Below you can find my personal webpage and socials.
 
 ## I'm currently working on:
 
-### Learning Urbit
-> Learning [Hoon](https://developers.urbit.org/guides/core/hoon-school) development for [Urbit](https://urbit.org/), a decentralized operating system.
+### Learning Angular
+> Learning [Angular](https://angular.io/) development for building web applications.
 
 ## My other projects:
 
