@@ -9,8 +9,8 @@ I code stuff that I find interesting. You can find my [personal webpage](https:/
 
 ## I'm currently working on:
 
-### Learning Angular
-> Learning [Angular](https://angular.io/) development for building web applications.
+### [alt.ug](https://alt.ug) v2
+> Rewriting my portfolio page using [Astro](https://astro.build).
 
 ## My other projects:
 
