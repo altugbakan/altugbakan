@@ -17,7 +17,7 @@ I code stuff that I find interesting. You can find my [personal webpage](https:/
 ### [alt.ug](https://github.com/altugbakan/alt.ug)
 > My personal [website](https://alt.ug) created with [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
-### [TFTP Server Daemon](https://github.com/altugbakan/rs-tftpd)
+### [TFTP Server](https://github.com/altugbakan/rs-tftpd)
 > A multi-threaded TFTP server daemon implementation in pure [Rust](https://www.rust-lang.org/).
 
 ### [Arduino Spotify Controller](https://github.com/altugbakan/arduino-spotify-controller)
