@@ -10,7 +10,7 @@ I code stuff that I find interesting. You can find my [personal webpage](https:/
 ## My other projects:
 
 ### [alt.ug](https://github.com/altugbakan/alt.ug)
-> My personal [website](https://alt.ug) created with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+> My personal [website](https://alt.ug) built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ### [TFTP Server](https://github.com/altugbakan/rs-tftpd)
 > A multi-threaded TFTP server daemon implementation in pure [Rust](https://www.rust-lang.org/).
