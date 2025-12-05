@@ -1,6 +1,8 @@
 ## Hey, I'm Altuğ.
 
-I code stuff that I find interesting. You can visit my [personal webpage](https://alt.ug) for more information.
+I code stuff that I find interesting. Visit my [personal webpage](https://alt.ug) for more information.
+
+I help bring electronic devices to life through [alsoft](https://alsoft.nl).
 
 ## Some of my projects:
 
